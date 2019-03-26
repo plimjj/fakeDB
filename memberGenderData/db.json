@@ -1,0 +1,8 @@
+{
+  "dataset": [
+    {
+      "data": [1,2,3]
+    }
+  ],
+  "labels": ["Male", "Female", "Non-Binary"]
+}
