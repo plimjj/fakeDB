@@ -1,6 +1,0 @@
-{
-  dataset: [
-    {data: [34245, 28573, 2000}
-  ],
-  labels: ['Male", "Female", "Non-Binary"]
-}
